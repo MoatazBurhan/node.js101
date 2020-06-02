@@ -1,5 +1,5 @@
 {
-  "name": "myfirst",
+  "name": "insults",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,10 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "formidable": "^1.2.2",
-    "nodemailer": "^6.4.8",
-    "upper-case": "^2.0.1"
-  }
+  "license": "ISC"
 }
